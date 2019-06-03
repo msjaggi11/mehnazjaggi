@@ -3,10 +3,29 @@ I have 10 plus experience in software industry and currently acting as a lead ba
 
 I am MS in <strong>Computer Science</strong> from San Francisco State University. 
 	
-Following are my few details.
+<h3>Technical Details</h3>    
+<table>
+<tr>
+    <td>Languages</td>
+    <td>Python, PHP, Java, C#</td>
+</tr>
+<tr>
+    <td>Frameworks</td>
+    <td>Django, Symfony</td>
+    
+</tr>
+<tr>
+    <td>ORM</td>
+    <td>Doctrine</td>        
+</tr>
+<tr>
+    <td>Databases</td>
+    <td>MySql, Oracle, Sql Server</td>        
+</tr>
+</table>
+
 
 <h3>Projects</h3>
-
 1. Deep expertease in Algorithms.
 2. Proficient in Python.
 3. Proficient in Django Web Framework. Here are some of the projects. Check <a href="https://github.com/msjaggi11/urlshortner">here</a>.
