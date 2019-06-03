@@ -22,6 +22,10 @@ I am MS in <strong>Computer Science</strong> from San Francisco State University
     <td>Databases</td>
     <td>MySql, Oracle, Sql Server</td>        
 </tr>
+<tr>
+    <td>Front End</td>
+    <td>Javascript, React, Bootstrap 4</td>
+</tr>
 </table>
 
 
